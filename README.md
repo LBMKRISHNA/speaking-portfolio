@@ -1,6 +1,6 @@
 # 🎤 BMK Lakshminarayanan — Speaking Portfolio
 
-> Transformation Architect | Independent Consultant | Section Six
+> Transformation Architect | Individual Contributor | CNCF Ambassador | Agile Priest | SECTION 6  | GHOST6
 > Wellington, New Zealand
 
 A curated collection of conference talks, keynotes, podcasts and webinars spanning DevOps, Platform Engineering, Value Stream Management, Cloud Native, and Engineering Culture.
@@ -93,9 +93,9 @@ A curated collection of conference talks, keynotes, podcasts and webinars spanni
 
 ## 🌐 Connect
 
-- **LinkedIn:** [linkedin.com/in/bmklakshminarayanan](https://www.linkedin.com/in/bmklakshminarayanan)
-- **SlideShare:** [slideshare.net/BMKNZ](https://www.slideshare.net/BMKNZ)
-- **Website:** Coming soon
+- **LinkedIn:** [BMKNZ](https://www.linkedin.com/in/bmknz/)
+- **Website:** [BMKDOTNZ](https://bmk.nz/)
+- **x.com:** [x](https://x.com/lbmkrishna)
 
 ---
 

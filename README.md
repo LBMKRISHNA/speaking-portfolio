@@ -21,7 +21,7 @@ A curated collection of conference talks, keynotes, podcasts and webinars spanni
 
 | Year | Conference | Talk Title | Deck | Recording |
 |------|-----------|------------|------|-----------|
-| 2024 | KubeDay Australia | Engineering Success Through Platform Engineering | [Deck](decks/KubeDay%20Australia%202024%20-EngineeringSuccess-KN-BMK.pptx) | — |
+| 2024 | KubeDay Australia | Engineering Success Through Platform Engineering | [Deck](decks/KubeDay%20Australia%202024%20-EngineeringSuccess-KN-BMK.pptx) | [CNCF YT](https://www.youtube.com/watch?v=AthNAz8BZSU&list=PLj6h78yzYM2NLF7PEjUu4YID_yct9hKz8&index=4) |
 | 2024 | All Day DevOps (ADDO) | Engineering Success — Lessons from the Trenches | [Deck](decks/ADDO-2024-Engineering-Success-BMK.pptx) | — |
 | 2024 | TechStrong Con | Architecting for Digital Platforms | [Deck](decks/BMK-TechStrong-DigitalTransformation-v3.pptx) | — |
 | 2024 | Project to Product Summit | Architecting for Business Agility | [Deck](decks/Project%20to%20Product%20Summit%202024-BMK-Complete.pptx) | — |

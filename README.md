@@ -1,5 +1,4 @@
 # 🎤 BMK Lakshminarayanan — Speaking Portfolio
-
 > Transformation Architect | Individual Contributor | CNCF Ambassador | Agile Priest | SECTION 6  | GHOST6
 > Wellington, New Zealand
 
@@ -71,6 +70,7 @@ A curated collection of conference talks, keynotes, podcasts and webinars spanni
 | 2023 | DevOps Institute SKILup Hour | Enterprise Kubernetes: Container Orchestration | — |
 | 2023 | DevOps Institute SKILup Hour | CI/CD — Rearchitecting for Distributed Computing | — |
 | 2023 | CloudBees Executive Roundtable | Increasing Speed and Security: Software Compliance & Release Orchestration | — |
+| 2022 | Better Value Sooner Safer Happier (BVSSH) Community | Value Streams: Organising for outcomes | [YouTube](https://www.youtube.com/watch?v=et6a1q7AV68&list=PLQcEI5ZMQlFQ3dhJMAaAqkKlkXZKUbOyo&index=73&t=1s) |
 | 2022 | DevOps Institute SKILup Hours | Value Stream Management | — |
 | 2022 | DevOps Online Summit (DOS) | DevOps New Zealand Community Spotlight | [YouTube](https://www.youtube.com/watch?v=1WPTngP1Jq4&t=12s) |
 

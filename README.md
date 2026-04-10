@@ -21,7 +21,7 @@ A curated collection of conference talks, keynotes, podcasts and webinars spanni
 
 | Year | Conference | Talk Title | Deck | Recording |
 |------|-----------|------------|------|-----------|
-| 2024 | KubeDay Australia | Engineering Success Through Platform Engineering | [Deck](decks/KubeDay%20Australia%202024%20-EngineeringSuccess-KN-BMK.pptx) | [CNCF YT](https://www.youtube.com/watch?v=AthNAz8BZSU&list=PLj6h78yzYM2NLF7PEjUu4YID_yct9hKz8&index=4) |
+| 2024 | KubeDay Australia | Engineering Success Through Platform Engineering | [Deck](decks/KubeDay%20Australia%202024%20-EngineeringSuccess-KN-BMK.pptx) | [YouTube](https://www.youtube.com/watch?v=AthNAz8BZSU&list=PLj6h78yzYM2NLF7PEjUu4YID_yct9hKz8&index=4) |
 | 2024 | All Day DevOps (ADDO) | Engineering Success — Lessons from the Trenches | [Deck](decks/ADDO-2024-Engineering-Success-BMK.pptx) | — |
 | 2024 | TechStrong Con | Architecting for Digital Platforms | [Deck](decks/BMK-TechStrong-DigitalTransformation-v3.pptx) | — |
 | 2024 | Project to Product Summit | Architecting for Business Agility | [Deck](decks/Project%20to%20Product%20Summit%202024-BMK-Complete.pptx) | — |
@@ -82,6 +82,19 @@ A curated collection of conference talks, keynotes, podcasts and webinars spanni
 | 2021 | A Spanner in the Works | Podcast Interview | [Spotify](https://open.spotify.com/episode/62HA5nuedpXpri3E08LWw0) |
 | 2021 | DevOps Online Summit | New Zealand Community Spotlight | [YouTube](https://www.youtube.com/watch?v=1WPTngP1Jq4&t=12s) |
 | 2020 | A Spanner in the Works | Podcast Interview | [Spotify](https://open.spotify.com/episode/0nv77dZirZLGRhQevqjyYw) |
+
+### 📰 Press & Media Features
+
+| Year | Publication | Article |
+|------|-------------|---------|
+| 2023 | InfoQ | [Improving Developer Experience in Non-Technical Organisations](https://www.infoq.com/news/2023/03/devex-nontechnical-enterprises/) |
+| 2020 | Microsoft News NZ | [Bank of New Zealand Moves Staff-Assisted Apps to the Cloud to Better Serve Customers](https://news.microsoft.com/en-nz/2020/11/26/bank-of-new-zealand-moves-staff-assisted-apps-to-the-cloud-to-better-serve-customers/) |
+
+### ✍️ Publications & Writing
+
+| Year | Title | Link |
+|------|-------|------|
+| 2021 | Book Chapter — *Speed and Stability: Redefining IT with DevOps* (60 Years of Tech in New Zealand) | [Read](https://bmk.nz/2021/12/21/speed-and-stability-redefining-it-with-devops-from-yesterday-to-tomorrow-60-years-of-tech-in-new-zealand%ef%bf%bc/) |
 
 ---
 
